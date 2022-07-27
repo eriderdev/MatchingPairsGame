@@ -1,0 +1,14 @@
+C:\Users\herna\source\repos\MatchingPairsGame\MatchingPairsGame\bin\Debug\MatchingPairsGame.exe.config
+C:\Users\herna\source\repos\MatchingPairsGame\MatchingPairsGame\bin\Debug\MatchingPairsGame.exe
+C:\Users\herna\source\repos\MatchingPairsGame\MatchingPairsGame\bin\Debug\MatchingPairsGame.pdb
+C:\Users\herna\source\repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.csproj.AssemblyReference.cache
+C:\Users\herna\source\repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.MainGameForm.resources
+C:\Users\herna\source\repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.Properties.Resources.resources
+C:\Users\herna\source\repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.csproj.GenerateResource.cache
+C:\Users\herna\source\repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.csproj.CoreCompileInputs.cache
+C:\Users\herna\source\repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.exe
+C:\Users\herna\source\repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.pdb
+C:\Users\herna\source\repos\MatchingPairsGame\MatchingPairsGame\bin\Debug\MatchingPairsGame.exe.manifest
+C:\Users\herna\source\repos\MatchingPairsGame\MatchingPairsGame\bin\Debug\MatchingPairsGame.application
+C:\Users\herna\source\repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.exe.manifest
+C:\Users\herna\source\repos\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.application
